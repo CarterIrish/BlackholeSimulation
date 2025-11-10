@@ -13,6 +13,7 @@ Release/
 *.slo
 *.lo
 *.o
+*.obj
 
 # Precompiled Headers
 *.gch
@@ -40,6 +41,7 @@ Release/
 *.lib
 
 # Executables
+
 *.out
 *.app
 
